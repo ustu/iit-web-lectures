@@ -33,8 +33,32 @@
    www/html.rst
    practice/html.rst
 
-* HTML&CSS
-* Хостинг статичных сайтов
+Лекция №3
+---------
+
+.. toctree::
+   :maxdepth: 2
+
+   www/github.rst
+   practice/github.rst
+
+Лекция №4
+---------
+
+.. toctree::
+   :maxdepth: 2
+
+   www/css.rst
+   practice/css.rst
+
+Лекция №5
+---------
+
+.. toctree::
+   :maxdepth: 2
+
+   www/http.rst
+   practice/http.rst
 
 Поиск по документации
 =====================
