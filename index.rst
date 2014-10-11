@@ -6,39 +6,35 @@
 Лекции по Веб-программированию
 ==============================
 
-Верстка и стили
----------------
-
-Содержание:
+Описание:
 
 .. toctree::
    :maxdepth: 2
 
    www/intro.rst
-   www/history.rst
-   www/static_and_dynamic.rst
-   www/workplace.rst
    www/lib.rst
 
-* HTML&CSS
-* Хостинг статичных сайтов
-
-Веб-программирование
---------------------
-
-Содержание:
-
-* Генераторы статики
+Лекция №1:
+----------
 
 .. toctree::
    :maxdepth: 2
 
-   dev/intro.rst
-   dev/workplace.rst
-   dev/net.rst
+   www/history.rst
+   www/static_and_dynamic.rst
+   www/workplace.rst
 
+Лекция №2
+---------
 
+.. toctree::
+   :maxdepth: 2
 
+   www/html.rst
+   practice/html.rst
+
+* HTML&CSS
+* Хостинг статичных сайтов
 
 Поиск по документации
 =====================
